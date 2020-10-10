@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "310776933989",
+    "firebase_url": "https://minicarjava.firebaseio.com",
+    "project_id": "minicarjava",
+    "storage_bucket": "minicarjava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310776933989:android:eaac2470ea81015a6aa08c",
+        "android_client_info": {
+          "package_name": "com.example.minicarjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310776933989-bog0ual171lksflt1cmqr035se01mqc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA4DZ0onxVuO35Zp3GfeLzQIJ3umvdYUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310776933989-bog0ual171lksflt1cmqr035se01mqc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
